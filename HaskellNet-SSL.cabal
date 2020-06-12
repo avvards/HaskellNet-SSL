@@ -4,7 +4,7 @@ version:             0.3.4.1
 description:         This package ties together the HaskellNet and connection
                      packages to make it easy to open IMAP and SMTP connections
                      over SSL.
-homepage:            https://github.com/dpwright/HaskellNet-SSL
+homepage:            https://github.com/avvards/HaskellNet-SSL
 license:             BSD3
 license-file:        LICENSE
 author:              Daniel P. Wright
@@ -21,7 +21,7 @@ Flag NoUpperBounds
 
 source-repository head
   type:     git
-  location: git://github.com/dpwright/HaskellNet-SSL.git
+  location: git://github.com/avvards/HaskellNet-SSL.git
 
 library
   hs-source-dirs:      src
